@@ -1,0 +1,10 @@
+{
+  "userId": "12345",
+  "userName": "Demo User",
+  "email": "demo.user@example.com",
+  "preferences": {
+    "theme": "light",
+    "language": "en-US"
+  },
+  "createdAt": "2026-07-26T00:00:00Z"
+}
